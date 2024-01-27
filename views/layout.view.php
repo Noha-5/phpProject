@@ -17,7 +17,7 @@
         <hr>
         
         <footer>
-            Scandiweb Test assignment<br>Done by Noha Hamed
+            Developed by Noha Hamed
         </footer>
     </main>
 </body>
